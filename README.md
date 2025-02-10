@@ -1,5 +1,5 @@
 <h1 align="center">
-  Web Developer Portfolio Template (Ram Ghale)
+  Web Developer Portfolio 
 </h1>
 <p align="center">
   This repo contains a Astro portfolio template built during [Skillaroo's](https://skillaroo.com.au) workshop on 10 Aug 2024. It is built with <a href="https://astro.build/" target="_blank">Astro</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>. This template drawn inspiration from this <a href="https://github.com/bchiang7/v4">Gatsby template</a>.
